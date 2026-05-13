@@ -1,0 +1,49 @@
+{
+  "businessName": "Allen Peace Enterprise",
+  "industry": "Manufacturing",
+  "tone": "professional",
+  "tagline": "Quality Manufacturing Solutions for Nigeria's Growing Industries",
+  "sections": [
+    {
+      "id": "hero",
+      "name": "Hero",
+      "copy": "Allen Peace Enterprise: Delivering Excellence in Manufacturing. Based in Ilaje, Nigeria, we provide reliable manufacturing solutions that power local businesses and communities. Quality products, dependable service, competitive pricing.",
+      "imagePrompt": "Wide angle photorealistic shot of a modern Nigerian manufacturing facility exterior with clean industrial buildings, well-maintained grounds, blue sky, professional lighting, workers in safety gear visible in background, vibrant green tropical vegetation, sense of productivity and professionalism",
+      "layout": "centered"
+    },
+    {
+      "id": "about",
+      "name": "About Us",
+      "copy": "Allen Peace Enterprise is a trusted manufacturing company serving Ilaje and the broader Nigerian market. Located at No 119 Okoga Street, Igbokoda, we combine modern manufacturing techniques with deep understanding of local business needs. Our commitment to quality, reliability, and customer satisfaction has made us a preferred partner for businesses across various sectors. We manufacture products that meet international standards while remaining accessible to Nigerian enterprises. Our facility is equipped to handle diverse manufacturing requirements, from small batch productions to larger scale operations.",
+      "imagePrompt": "Interior of a well-organized Nigerian manufacturing workshop with modern equipment, clean workstations, quality control area, Nigerian workers in professional attire inspecting products, natural light streaming through large windows, organized inventory shelves, atmosphere of precision and care",
+      "layout": "split"
+    },
+    {
+      "id": "services",
+      "name": "Our Manufacturing Services",
+      "copy": "Custom Manufacturing: Tailored production solutions designed to meet your specific product requirements and quality standards.\n\nBatch Production: Flexible manufacturing runs from small to medium batches, perfect for growing Nigerian businesses.\n\nQuality Assurance: Rigorous testing and inspection protocols ensure every product meets our high standards before delivery.\n\nProduct Development: Collaborative approach to bring your manufacturing ideas from concept to finished product.\n\nLogistics Support: Reliable delivery coordination across Ilaje and surrounding regions in Nigeria.",
+      "imagePrompt": "Split composition showing different manufacturing processes in a Nigerian facility: workers operating machinery, quality inspection with measuring tools, finished products being packaged, logistics preparation area, all under good lighting with safety equipment visible, professional industrial environment",
+      "layout": "grid"
+    },
+    {
+      "id": "why-choose-us",
+      "name": "Why Choose Allen Peace Enterprise",
+      "copy": "Local Expertise: Deep understanding of the Nigerian manufacturing landscape and local business requirements.\n\nQuality Commitment: We never compromise on product quality, ensuring durability and reliability in every item we produce.\n\nCompetitive Pricing: Fair, transparent pricing structures that make quality manufacturing accessible to Nigerian businesses.\n\nReliable Delivery: Consistent turnaround times and dependable logistics to keep your operations running smoothly.\n\nCustomer Partnership: We view our clients as partners, working closely to ensure manufacturing solutions align with your business goals.",
+      "imagePrompt": "Photorealistic image of satisfied Nigerian business owners shaking hands with manufacturing representatives in a professional setting, finished quality products displayed on table, bright natural lighting, modern office environment mixed with industrial backdrop, sense of trust and partnership",
+      "layout": "cards"
+    },
+    {
+      "id": "contact",
+      "name": "Get In Touch",
+      "copy": "Ready to discuss your manufacturing needs? Allen Peace Enterprise is here to provide the quality manufacturing solutions your business deserves. Whether you need custom production, batch manufacturing, or consultation on product development, our team is ready to assist.\n\nVisit our facility at No 119 Okoga Street, Igbokoda, Ilaje, Nigeria, or reach out by phone or WhatsApp. We look forward to partnering with you to bring your manufacturing projects to life with the quality and reliability that defines Allen Peace Enterprise.",
+      "imagePrompt": "Welcoming exterior view of a Nigerian manufacturing office entrance with clean signage, professional reception area visible through glass doors, lush tropical plants, paved pathway, blue sky, inviting atmosphere that says 'open for business', daytime natural lighting",
+      "layout": "centered"
+    }
+  ],
+  "contact": {
+    "phone": "08072058199",
+    "email": "info@allenpeaceenterprise.ng",
+    "address": "No 119 Okoga Street, Igbokoda, Ilaje, Nigeria",
+    "whatsapp": "https://wa.me/2348072058199"
+  }
+}
